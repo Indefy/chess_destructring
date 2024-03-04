@@ -1,0 +1,15 @@
+{
+  "name": "chess_destructuring",
+  "version": "0.0.1",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "index.mjs"
+  },
+  "keywords": [],
+  "author": "AdiBooker",
+  "license": "ISC",
+  "description": "chess destructuring script",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
